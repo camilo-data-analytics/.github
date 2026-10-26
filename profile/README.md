@@ -2,7 +2,7 @@
 
 Data analysis portfolio by **Camilo Esteban Mantilla** — turning raw data into business decisions with **Python, SQL, statistics and visualization**.
 
-👤 Personal profile (development, QA & automation): [@camilo180700](https://github.com/camilo180700)
+👤 Personal profile: [@camilo180700](https://github.com/camilo180700) · 🛠️ Apps & automation (Streamlit, Apps Script, QA2): [camilo-apps](https://github.com/camilo-apps)
 
 ---
 
